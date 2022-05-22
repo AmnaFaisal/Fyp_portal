@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fyp_portal/static/css/main.a9ebac9c.css",
+    "main.js": "/Fyp_portal/static/js/main.c458e599.js",
+    "static/js/787.717e2bc1.chunk.js": "/Fyp_portal/static/js/787.717e2bc1.chunk.js",
+    "index.html": "/Fyp_portal/index.html",
+    "main.a9ebac9c.css.map": "/Fyp_portal/static/css/main.a9ebac9c.css.map",
+    "main.c458e599.js.map": "/Fyp_portal/static/js/main.c458e599.js.map",
+    "787.717e2bc1.chunk.js.map": "/Fyp_portal/static/js/787.717e2bc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9ebac9c.css",
+    "static/js/main.c458e599.js"
+  ]
+}
